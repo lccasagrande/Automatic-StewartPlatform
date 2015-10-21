@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map For StewartPlatform
+####################################### 
+# Datatypes (KEYWORD1)
+#######################################
+
+StewartPlatform KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getServoPosition 	KEYWORD2
+point_t				KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
