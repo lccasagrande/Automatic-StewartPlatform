@@ -1,4 +1,4 @@
-# Automatic-StewartPlatform
+# Automatic-StewartPlatformAutomation
 
 A project to automatically control a Stewart Platform using an IMU sensor.
 
